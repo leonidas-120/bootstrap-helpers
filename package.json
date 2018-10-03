@@ -1,0 +1,24 @@
+{
+    "name": "bootstrap-helpers",
+    "version": "1.0.0",
+    "description": "Bootstrap 4 helpers",
+    "author": "Leonidas Christodoulou <leonidas@120advertising.com>",
+    "main": "sizing.css",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/leonidas-120/bootstrap-helpers.git"
+    },
+    "bugs": {
+        "url": "https://github.com/leonidas-120/bootstrap-helpers/issues"
+    },
+    "keywords": [
+        "bootstrap",
+        "css",
+        "helpers"
+    ],
+    "license": "MIT License",
+    "contributors": [{
+        "name": "leonidas120",
+        "email": "leonidas@120advertising.com"
+    }]
+}
